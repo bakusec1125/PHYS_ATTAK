@@ -1,8 +1,8 @@
-# PHYS-ATT&CK Framework
+# PHYSCK Matrix Framework
 
 ### The Open-Source Matrix for Physical Security Tactics, Techniques, and Common Knowledge.
 
-PHYS-ATT&CK is a globally-accessible knowledge base of physical adversary tactics and techniques based on real-world observations. It provides a standardized, enumerated language for physical security practitioners to map threats to specific tools and mitigations.
+PHYSCK Matrix is a globally-accessible knowledge base of physical adversary tactics and techniques based on real-world observations. It provides a standardized, enumerated language for physical security practitioners to map threats to specific tools and mitigations.
 
 ---
 
